@@ -1,1 +1,1 @@
-This Website was developed by Hamza shihabu,Abdulaziz shewabu and Abdurahman shekh Anwar for Debo engineering
+This Website was developed by <a href="github.com/hshehabu">Hamza shihabu</a> ,<a href="github.com/abshwabu">Abdulaziz shewabu</a> and <a href="github.com/abduredev"> for Debo engineering.
