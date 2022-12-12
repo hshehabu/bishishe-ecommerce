@@ -1,1 +1,1 @@
-This Website was developed by <a href="github.com/hshehabu">Hamza shihabu</a> ,<a href="github.com/abshwabu">Abdulaziz shewabu</a> and <a href="github.com/abduredev"> for Debo engineering.
+This Website is an e-commerce website developed by <a href="github.com/hshehabu">Hamza shihabu</a> ,<a href="github.com/abshwabu">Abdulaziz shewabu</a> and <a href="github.com/abduredev">Abdurehman shekh Anwar</a> for Debo engineering.
